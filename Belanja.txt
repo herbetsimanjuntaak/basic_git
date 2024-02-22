@@ -2,3 +2,5 @@ Daftar Belanja
 
 -Telur 1 KG
 -Beras 1 KG
+-Tahu 5K
+-Tempe 5K
